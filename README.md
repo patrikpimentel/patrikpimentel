@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![](https://github.com/patrikpimentel/patrikpimentel/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/patrikpimentel/patrikpimentel/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
