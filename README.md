@@ -5,7 +5,7 @@
 - 🔭 **Pesquisador** em IA Multimodal (RAG e Fine-tuning)
 - 📄 **Autor** do artigo [**"Retinal Report Generation using Contrastive Captioner"**](https://sol.sbc.org.br/index.php/sbcas/article/view/35551/35338) (SBCAS)
 - 🌱 **Atualmente estudando** Otimização Combinatória
-- 👯 **Aberto a colaborações** em IA, HealthTech e Sistemas Distribuídos
+- 👯 **Aberto a colaborações** em IA, HealthTech       
 - 💬 **Foco:** Java/Spring Boot, Python (AI), Flutter
 
 ---
