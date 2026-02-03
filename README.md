@@ -34,13 +34,8 @@
 
 </div>
 
-<div align="center">
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patrikpimentel&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Contribuições
-
-![](https://github-contributor-stats.vercel.app/api?username=patrikpimentel&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
+| | |
+|:---:|:---:|
+| ![](https://github-readme-stats.vercel.app/api?username=patrikpimentel&theme=aura&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=patrikpimentel&theme=aura&hide_border=false) |
